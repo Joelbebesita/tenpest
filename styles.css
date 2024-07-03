@@ -1,0 +1,81 @@
+.container {
+    width: 80%;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.container {
+    width: 50%;
+    margin: 50px auto;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .payment-box {
+    text-align: center;
+    padding: 20px;
+    background-color: #dff0d8;
+    border: 1px solid #3e8e41;
+    border-radius: 5px;
+    color: #3e8e41;
+  }
+  
+  .payment-box h2 {
+    margin-top: 0;
+  }
+  
+  .payment-box p {
+    margin-bottom: 20px;
+  }
+
+  .producto {
+    width: 30%;
+    float: left;
+    margin: 1%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.producto img {
+    width: 80%;
+    margin-bottom: 10px;
+}
+.producto p {
+    margin-bottom: 10px;
+}
+.boton-comprar {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 6px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+ }
+ body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+  background-color: #2b3150;
+ }
+
+ .papure {
+  background-color:#091625;
+  font-size: 30px; 
+  text-align: center;
+  color: #ffffff; 
+  font-weight: bold;
+}
+body {
+  background-color: rgb(53, 53, 95);
+}
